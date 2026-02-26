@@ -1,11 +1,11 @@
-<<<<<< HEAD
-# 🧬 Genomic Data Science Portfolio
+
+#  Genomic Data Science Portfolio
 
 [![Coursera](https://img.shields.io/badge/Coursera-Genomic%20Data%20Science-0056D2?style=flat&logo=coursera)](https://www.coursera.org/specializations/genomic-data-science)
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-Bioconductor-276DC3?style=flat&logo=r)](https://www.bioconductor.org/)
 
-## 👨‍🔬 About Me
+## About Me
 
 I hold a degree in Dental Science and am currently transitioning into the field of bioinformatics. This repository documents my learning journey through the **Genomic Data Science Specialization** (Johns Hopkins University), as part of my preparation for a master's degree in genomics and bioinformatics.
 
@@ -17,7 +17,7 @@ My academic interests lie at the intersection of computational biology and biome
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Genomic-Data-Science/
@@ -41,23 +41,23 @@ Genomic-Data-Science/
 
 ---
 
-## 🔬 Projects & Topics Covered
+## Projects & Topics Covered
 
-### 🐍 Python for Genomics
+### Python for Genomics
 - Biological sequence manipulation with **Biopython** (`Bio.Seq`)
 - DNA complement and reverse complement
 - **GC content** calculation
 - **Hamming distance** between sequences
-- **FASTA file** parsing
+- **FASTA/FASTQ file** parsing
 - Working with compressed genomic files (`.gz`)
 - Nucleotide percentage analysis
 
-### 🧮 Algorithms for Genomic Data Science
+### Algorithms for Genomic Data Science
 - **Preprocessing, Indexing & Approximate Matching** — k-mer indexing, Boyer-Moore algorithm
 - **Edit Distance & Assembly Overlaps** — dynamic programming, sequence alignment
 - **Algorithms for Assembly** — de Bruijn graphs, genome assembly concepts
 
-### 💻 Command-Line Genomics
+### Command-Line Genomics
 - SAM/BAM file manipulation with **SAMtools**
 - Sequence alignment and sorting
 - **Variant calling** with `mpileup`
@@ -65,28 +65,28 @@ Genomic-Data-Science/
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Category | Tools |
 |----------|-------|
 | Languages | Python 3, R, Bash |
 | Libraries | Biopython, pandas, numpy |
-| Genomics | SAMtools, Bioconductor |
+| Genomics | FASTA/FASTAQ | SAMtools, Bioconductor |
 | Environment | Jupyter Notebook, Conda |
 | Version Control | Git, GitHub |
 
 ---
 
-## 🎓 About the Specialization
+##  About the Specialization
 
 The [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science) by Johns Hopkins University covers the complete workflow of modern genomics, from raw sequencing data to biological interpretation, using Python, R, and command-line tools.
 
 ---
 
-## 📬 Contact
+##  Contact
 
 - GitHub: [@pedroaraujo720](https://github.com/pedroaraujo720)
-
+- Email: pedroaraujo720@gmail.com
 ---
 
 *This repository is part of my academic portfolio for master's degree applications in bioinformatics and genomics.*
