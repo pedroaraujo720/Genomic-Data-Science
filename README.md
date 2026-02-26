@@ -1,3 +1,4 @@
+<<<<<< HEAD
 # 🧬 Genomic Data Science Portfolio
 
 [![Coursera](https://img.shields.io/badge/Coursera-Genomic%20Data%20Science-0056D2?style=flat&logo=coursera)](https://www.coursera.org/specializations/genomic-data-science)
@@ -89,3 +90,7 @@ The [Genomic Data Science Specialization](https://www.coursera.org/specializatio
 ---
 
 *This repository is part of my academic portfolio for master's degree applications in bioinformatics and genomics.*
+=======
+# Genomic-Data-Science
+Projects from the Genomic Data Science Specialization
+>>>>>>> e8a68ebcb60fa0eb5033fade6c29d02f70674297
