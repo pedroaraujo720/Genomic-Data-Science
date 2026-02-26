@@ -1,0 +1,1000 @@
+   18  source bioenv/bin/activate
+   19  pip install biopython jupyterlab matplotlib numpy
+   20  jupyter lab
+   21  cd ~/bio
+   22  python --version
+   23  which pip
+   24  jupyter lab
+   25  import Bio
+   26  import pandas as pd
+   27  import matplotlib.pyplot as plt
+   28  print("Biopython:", Bio.__version__)
+   29  print("Pandas:", pd.__version__)
+   30  jupyter lab
+   31  pip install biopython pandas matplotlib
+   32  import Bio
+   33  import pandas as pd
+   34  import matplotlib.pyplot as plt
+   35  print("Biopython:", Bio.__version__)
+   36  print("Pandas:", pd.__version__)
+   37  whoami
+   38  source /home/pedroaraujo/bio/bioenv/bin/activate
+   39  cd /mnt/c/Users/pedro/Documents/projetos
+   40  C:\Users\pedro\Desktop\python projects\Python projects
+   41  cd /mnt/c/Users/pedro/Desktop/python projects/Python projects
+   42  mkdir -p ~/projects
+   43  cp -r "/mnt/c/Users/pedro/Desktop/python projects/Python projects/" ~/projects/
+   44  cd ~/projects
+   45  code .
+   46  source /home/pedroaraujo/bio/bioenv/bin/activate
+   47  source ~/bio/bioenv/bin/activate
+   48  pip install jupyterlab ipykernel
+   49  python -m ipykernel install --user --name=bioenv
+   50  ls ~
+   51  /home/pedroaraujo/Python projects
+   52  /bin/python3 "/home/pedroaraujo/projects/Python projects/Test3_bio.py"
+   53  /home/pedroaraujo
+   54  uname -a
+   55  source /home/pedroaraujo/bio/bioenv/bin/activate
+   56  source /home/pedroaraujo/bio/bioenv/bin/activate
+   57  /home/pedroaraujo/bio/bioenv/bin/python Untitled-1
+   58  /home/pedroaraujo/bio/bioenv/bin/python /home/pedroaraujo/bio/teste_fasta
+   59  source /home/pedroaraujo/bio/bioenv/bin/activate
+   60  source /home/pedroaraujo/bio/bioenv/bin/activate
+   61  source /home/pedroaraujo/bio/bioenv/bin/activate
+   62  ls
+   63  code .
+   64  python3 --version
+   65  which python3
+   66  python3 -c "import Bio; print(Bio.__version__)"
+   67  jupyter --version
+   68  jupyter notebook
+   69  pip3 install jupyter
+   70  cd ~
+   71  code .
+   72  python3 -c "import Bio; print(Bio.__version__)"
+   73  /bin/python3 "/home/pedroaraujo/projects/Python projects/Test2_bio.py"
+   74  /bin/python3 "/home/pedroaraujo/projects/Python projects/Test3_bio.py"
+   75  which -python3
+   76  which python3
+   77  ls ~
+   78  ls ~/bioenv
+   79  source ~/bioenv/bin/activate
+   80  source ~/bio/bioenv/bin/activate
+   81  pip install ipykernel
+   82  python -m ipykernel install --user --name bioenv --display-name "bioenv"
+   83  jupyter kernelspec list
+   84  cd ~
+   85  code .
+   86  journalcrl
+   87  journalctl
+   88  cd ~
+   89  code .
+   90  ls ~/.vscode-server
+   91  python3 --version
+   92  ls ~
+   93  source ~/bio/bioenv/bin/activate
+   94  pip install --upgrade pip
+   95  pip install jupyter ipykernel
+   96  python -m ipykernel install --user --name bioenv --display-name "bioenv"
+   97  cd ~
+   98  code .
+   99  cd ~
+  100  code .
+  101  ls /home
+  102  sudo -u Pedro code .
+  103  ls ~/bioenv
+  104  source ~/bioenv/bin/activate
+  105  which python
+  106  python3 --version
+  107  python3 -m venv ~/bioenv
+  108  source ~/bioenv/bin/activate
+  109  pip install --upgrade pip
+  110  pip install numpy pandas matplotlib seaborn biopython jupyter ipykernel
+  111  python -m ipykernel install --user --name bioenv --display-name "bioenv"
+  112  jupyter kernelspec list
+  113  code .
+  114  pip show seaborn
+  115  /home/pedroaraujo/bioenv/bin/python "/home/pedroaraujo/projects/Python projects/Test3_bio.py"
+  116  source /home/pedroaraujo/bioenv/bin/activate
+  117  /home/pedroaraujo/bioenv/bin/python "/home/pedroaraujo/projects/Python projects/Test3_bio.py"
+  118  source /home/pedroaraujo/bioenv/bin/activate
+  119  /home/pedroaraujo/bioenv/bin/python /home/pedroaraujo/bio/kmer_index.py
+  120  source /home/pedroaraujo/bioenv/bin/activate
+  121  /home/pedroaraujo/bioenv/bin/python /home/pedroaraujo/bio/kmer_index.py
+  122  source /home/pedroaraujo/bioenv/bin/activate
+  123  /home/pedroaraujo/bioenv/bin/python /home/pedroaraujo/bio/kmer_index.py
+  124  source /home/pedroaraujo/bioenv/bin/activate
+  125  /home/pedroaraujo/bioenv/bin/python /home/pedroaraujo/bio/kmer_index.py
+  126  source /home/pedroaraujo/bioenv/bin/activate
+  127  date
+  128  echo hello
+  129  foo
+  130  pwd
+  131  cd home
+  132  cd.
+  133  cd .
+  134  pwd
+  135  ls
+  136  ls -l
+  137  ls -lt
+  138  more FASTA FILE
+  139  ls -lt
+  140  more fasta_file
+  141  ls -lt
+  142  cd fasta
+  143  more dna2.fasta
+  144  >
+  145  more dna2.fasta
+  146  less dna2.fasta
+  147  ls -l
+  148  cd..
+  149  more *dna2.fasta
+  150  more *fasta
+  151  more *dna2.fasta
+  152  cat fasta/dna2.fasta
+  153  echo oi
+  154  wc fasta/dna2.fasta
+  155  wc -l fasta/dna2.fasta
+  156  wc -l fasta/dna2.fasta > nlines
+  157  more nlines
+  158  more months
+  159  more fasta
+  160  ls -l
+  161  more nlines
+  162  more projects
+  163  more bio
+  164  print("you are a bitch")
+  165  import python
+  166  print("ypu are a bitch")
+  167  python --version
+  168  python3 --version
+  169  python3
+  170  ls -l
+  171  more fasta
+  172  dna2.fasta
+  173  grep "ATGA" fasta/dna2.fasta
+  174  more orchard
+  175  ls -l
+  176  cat fasta/chr1.GRCh38.excerpt.fasta
+  177  more fasta/chr1.GRCh38.excerpt.fasta
+  178  ls -l
+  179  cd fasta
+  180  gunzip gencommand_proj1_data.tar.gz
+  181  tar - xvf gencommand_proj1_data.tar.gz
+  182  tar -xvf gencommand_proj1_data.tar
+  183  more apple.genome
+  184  cd gencommand_proj1_data
+  185  more apple.genome
+  186  grep ">" apple.genome
+  187  wc -l
+  188  grep ">" apple.genome | wc -l
+  189  more apple.genes
+  190  cut -f1 apple.genes | more
+  191  cut -f1 apple.genes | uniq
+  192  cut -f1 apple.genes | uniq | wc -l
+  193  cut -f2 apple.gene | more
+  194  cut -f2 apple.genes | more 
+  195  cut -f2 apple.genes | more \ wc -l
+  196  cut -f2 apple.genes | more | wc -l
+  197  cut -f2 apple genes | sort-u | wc -l
+  198  cut -f2 apple.genes | sort-u | wc -l
+  199  cut -f2 apple.genes | sort -u | wc -l
+  200  cut -f1 apple.genes | uniq -c | more
+  201  cut -f1 apple.genes | uniq -c | grep "1" | wc -l
+  202  cut -f1 apple.genes | uniq -c | grep -v " 1 " 
+  203  grep ">" apple.genome 
+  204  cut -f1 apple.genes | more 
+  205  cut -f1 apple.genes | uniq | wc -l
+  206  cut -f1 apple.genes | sort -u | wc -l
+  207  cut -f2 apple.genes | more | wc -l
+  208  cut -f2 apple.genes | sort -u | wc -l
+  209  cut -f1,2 apple.genes | more
+  210  cut -f1 apple.genes | more
+  211  cut -f1 apple.genes | uniq -c | more
+  212  cut -f1 apple.genes | uniq -c | grep " 1 " | wc -l
+  213  cut -f1 apple.genes | uniq -c | grep -v " 1 " | wc -l
+  214  cut -f1 apple.genes | uniq -c | grep -v " 1 "
+  215  cut -f1 apple.genes | uniq -c | grep " + "
+  216  cut -f3 apple.genes | more
+  217  cut -f5 apple.genes | more
+  218  cut -f4 apple.genes | more
+  219  awk '$4=="+"' apple.genes | wc -l
+  220  cut -f4 apple.genes | more
+  221  cut -f4 apple.genes | grep " + " | wc -l
+  222  cut -f4 apple.genes | grep '^+$' | wc -l
+  223  ls -l
+  224  more apple.genes 
+  225  ls -l
+  226  more apple.conditionA
+  227  more apple.genome
+  228  ls -l
+  229  cut -f2 apple.genes | sort | grep '^chr1$' | wc -l
+  230  cut -f4 apple.genes | grep -w chr1 | wc -l
+  231  cut -f3 apple.genes | grep -w " chr1 " | wc -l
+  232  awk '$3=="chr1"' apple.genes | wc -l
+  233  more apple.genes
+  234  cut -f1 apple.genes | more
+  235  cut -f1,2 apple.genes | more
+  236  awk '$3=="chr1"' apple.genes | wc -l
+  237  awk '$3=="chr2"' apple.genes | wc -l
+  238  awk '$3=="chr3"' apple.genes | wc -l
+  239  awk '$3=="chr1"' apple.genes | cut -f2
+  240  ls -l
+  241  sort apple.conditionA > A.sorted                                                                       sort apple.conditionB > B.sorted
+  242  comm -12 A.sorted B.sorted | wc -l
+  243  sort apple.conditionA > A.sorted
+  244  sort apple.conditionB > B.sorted
+  245  comm -12 A.sorted B.sorted | wc -l
+  246  comm -23 <(sort apple.conditionA) <(sort apple.conditionB) | comm -23 - <(sort apple.conditionC) | wc -l
+  247  comm -23 <(sort apple.conditionB) <(sort apple.conditionA) | comm -23 - <(sort apple.conditionC) | wc -l
+  248  comm -23 <(sort apple.conditionC) <(sort apple.conditionB) | comm -23 - <(sort apple.conditionA) | wc -l
+  249  more apple.genes
+  250  % cut –f1 apple.genes | sort | uniq –c | grep –v “ 1 “ | wc -l
+  251  cut –f1 apple.genes | sort | uniq –c | grep –v “ 1 “ | wc -l
+  252  | uniq -c | grep -v " 1 " | wc -l
+  253  ls -l
+  254  cut -f1 apple.genes | sort | uniq -c | grep -c " 1 "
+  255  awk '$4=="+"' apple.genes | cut -f1 | sort | uniq | wc -l
+  256  awk '$4=="-"' apple.genes | cut -f1 | sort | uniq | wc -l
+  257  cut f1 apple.genes | sort | uniq | grep '^+$' | wc -l
+  258  cut -f4 apple.genes | grep -w "+"
+  259  cut -f4 apple.genes | grep -w "+" | wc -l
+  260  cut -f1,4 apple.genes | grep -P "\t\+" | cut -f1 | sort | uniq | wc -l
+  261  cut -f1,4 apple.genes | grep -P "\t\-" | cut -f1 | sort | uniq | wc -l
+  262  cut -f1,3 apple.genes | grep -P "\t\chr1" | cut -f1 | sort | uniq | wc -l
+  263  cut -f1,4 apple.genes | grep -P "\t\chr1" | cut -f4 | sort | uniq | wc -l
+  264  cut -f3 apple.genes | grep -w "chr1"
+  265  cut -f1,3 apple.genes | grep -P "\t\chr1" | cut -f1 | sort | uniq | wc -l
+  266  cut -f1,3 apple.genes | grep -P "\tchr1" | cut -f1 | sort | uniq | wc -l
+  267  cut -f1,3 apple.genes | grep -P "\tchr2" | cut -f1 | sort | uniq | wc -l
+  268  cut -f1,3 apple.genes | grep -P "\tchr3" | cut -f1 | sort | uniq | wc -l
+  269  ls -l\
+  270  ls -l
+  271  % cut –f1 apple.conditionA | sort –u > apple.condA.sorted.genes
+  272  % cut –f1 apple.conditionB | sort –u > apple.condB.sorted.genes
+  273  % comm -1 -2 apple.condA.sorted.genes apple.condB.sorted.genes | wc –l
+  274  cut -f1 apple.conditionA | sort -u > apple.condA.sorted.genes
+  275  cut -f1 apple.conditionB | sort -u > apple.condB.sorted.genes
+  276  comm -1 -2 apple.condA.sorted.genes apple.condB.sorted.genes | wc -l
+  277  comm -2 -3 apple.condA.sorted.genes apple.condB.sorted.genes | wc -l
+  278  cut -f1 apple.conditionC | sort -u > apple.condC.sorted.genes?
+  279  cat apple.cond{A,B,C}.sorted.genes | sort | uniq-c | grep -c " 3 "
+  280  cat apple.cond{A,B,C}.sorted.genes | sort | uniq -c | grep -c " 3 "
+  281  $ cat apple.cond{A,B,C}.sorted.genes | sort | uniq -c | grep -c " 3 "
+  282  cat apple.cond{A,B,C}.sorted.genes | sort | uniq -c | grep -c " 3 "
+  283  source /home/pedroaraujo/bioenv/bin/activate
+  284  source /home/pedroaraujo/bioenv/bin/activate
+  285  ls -l
+  286  cd fasta
+  287  ls -l fasta
+  288  more gencommand_proj1_data
+  289  more apple.genes
+  290  cd gencommand_proj1_data
+  291  more apple.genes
+  292  cut -f3 apple.genes
+  293  uniq 
+  294  ls -l
+  295  cd fasta 
+  296  ls -l
+  297  cd fasta
+  298  more gencommand_proj2_data.tar.gz
+  299  gunzip gencommand_proj2_data.tar.gz
+  300  more gencommand_proj2_data.tar
+  301  gunzip gencommand_proj2_data.tar.gz | more
+  302  gunzip gencommand_proj2_data.tar
+  303  ls -l
+  304  cd fasta
+  305  gunzip gencommand_proj2_data.tar.gz
+  306  ls -l
+  307  gunzip gencommand_proj2_data.tar.gz
+  308  gunzip fasta\gencommand_proj2_data.tar.gz
+  309  tar -xvzf gencommand_proj2_data.tar.gz
+  310  cd gencommand_proj2_data.tar.gz
+  311  samtools --version
+  312  bedtools --version
+  313  conda create -n bioinfo_legacy
+  314  conda activate bioinfo_legacy
+  315  wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+  316  bash Miniconda3-latest-Linux-x86_64.sh
+  317  conda create -n bioinfo_legacy
+  318  conda activate bioinfo_legacy
+  319  conda --version
+  320  source ~/.bashrc
+  321  conda --version
+  322  conda create -n bioinfo_legacy
+  323  conda activate bioinfo_legacy
+  324  conda install -c bioconda samtools=1.2 bedtools=2.24.0
+  325  samtools --version
+  326  bedtools --version
+  327  conda create -n samtools_new -c bioconda samtools
+  328  conda activate samtools_new
+  329  samtools --version
+  330  ls -l
+  331  conda config --set auto_activate_base false
+  332  conda activate samtools_new
+  333  conda activate bioinfo_legacy
+  334  conda config --set auto_activate_base false
+  335  samtools -help
+  336  conda create -n bioinfo_modern -c bioconda samtools bedtools
+  337  conda activate bioinfo_modern
+  338  samtools --version
+  339  bedtools --version
+  340  conda deactivate
+  341  conda env list
+  342  conda remove -n bioinfo_legacy --all
+  343  conda remove -n bioinfo_modern --all
+  344  conda remove -n samtools_new --all
+  345  conda clean --all
+  346  conda env list
+  347  conda create -n bioinfo -c bioconda samtools bedtools
+  348  conda activate bioinfo
+  349  samtools --version
+  350  bedtools --version
+  351  conda deactivate
+  352  conda remove -n bioinfo --all
+  353  conda config --add channels conda-forge
+  354  conda config --add channels bioconda
+  355  conda config --set channel_priority strict
+  356  conda create -n bioinfo samtools bedtools
+  357  conda activate bioinfo
+  358  samtools --version
+  359  bedtools --version
+  360  which samtools
+  361  bedtools --version
+  362  which samtools
+  363  type -a samtools
+  364  which bedtools
+  365  ldd $(which samtools)
+  366  echo $LD_LIBRARY_PATH
+  367  conda deactivate
+  368  conda remove -n bioinfo --all
+  369  conda create -n bioinfo   -c conda-forge -c bioconda   samtools bedtools openssl=1.1
+  370  conda activate bioinfo
+  371  [200~samtools --version
+  372  bedtools --version
+  373  ~
+  374  samtools --version
+  375  bedtools --version
+  376  conda remove samtools
+  377  conda config --prepend channels conda-forge
+  378  conda config --append channels bioconda
+  379  conda config --set channel_priority strict
+  380  conda install samtools
+  381  conda update --all
+  382  samtools --version
+  383  bedtools --version
+  384  ls -l
+  385  cd fasta
+  386  more gencommand_proj2_data.tar
+  387  gunzip gencommand_proj2_data.tar
+  388  gencommand_proj2_data.tar.gz
+  389  gunzip gencommand_proj2_data.tar.gz
+  390  pwd
+  391  ls
+  392  tar -xzvf gencommand-project2-data.tar
+  393  conda activate bioinfo
+  394  samtools --version
+  395  tar -xzvf gencommand_proj2_data.tar.gz
+  396  ls -1
+  397  tar -xzvf fasta\gencommand_proj2_data.tar.gz
+  398  tar -xzvf fasta\gencommand_proj2_data.tar
+  399  ls -l
+  400  cd fasta
+  401  gunzip gencommand_proj2_data.tar.gz
+  402  tar -xvf gencommand_proj2_data.tar.gz
+  403  tar -xvf gencommand_proj2_data.tar
+  404  samtools view -c athal_wu_0_A.bam
+  405  samtools view -c -f 8 athal_wu_0_A.bam
+  406  samtools view athal_wu_0_A.bam | cut -f6 | grep -c 'D'
+  407  samtools view -c -f 2 athal_wu_0_A.bam
+  408  samtools view athal_wu_0_A.bam | cut -f6 | grep -c 'N'
+  409  samtools view -c athal_wu_0_A.bam Chr3:11777000-11794000
+  410  samtools view -c -f 8 athal_wu_0_A.bam Chr3:11777000-11794000
+  411  samtools view athal_wu_0_A.bam | Chr3:11777000-11794000 | cut -f 6 | grep -c 'D'
+  412  samtools view athal_wu_0_A.bam Chr3:11777000-11794000 | cut -f6 | grep -c 'D'
+  413  samtools view -c -f 2 athal_wu_0_A.bam Chr3:11777000-11794000
+  414  samtools view athal_wu_0_A.bam  Chr3:11777000-11794000 | cut -f6 | grep -c 'N'
+  415  samtools idxstats athal_wu_0_A.bam | wc -l
+  416  samtools idxstats athal_wu_0_A.bam | head -n 1
+  417  samtools view -H athal_wu_0_A.bam | grep '^@PG'
+  418  samtools view athal_wu_0_A.bam | head -n 1 | cut -f1
+  419  samtools view athal_wu_0_A.bam | head -n 1 | cut -f7,8
+  420  samtools view athal_wu_0_A.bam | head -n 1 | cut -f3,7,8
+  421  samtools view -b athal_wu_0_A.bam Chr3:11777000-11794000 > chr3_locus.bam
+  422  samtools sort chr3_locus.bam -o chr3_locus.sorted.bam
+  423  grep -w exon athal_wu_0_A_annot.gtf > exons.gtf
+  424  awk 'BEGIN{OFS="\t"} {print $1, $4-1, $5}' exons.gtf > exons.bed
+  425  bedtools intersect   -a chr3_locus.sorted.bam   -b exons.bed   -wo
+  426  bedtools intersect   -a chr3_locus.sorted.bam   -b exons.bed   -wo
+  427  bedtools intersect   -a chr3_locus.sorted.bam   -b exons.bed   -wo | wc -l
+  428  bedtools intersect -a chr3_locus.sorted.bam -b exons.bed -wo
+  429  ls
+  430  bedtools --version
+  431  bedtools intersect -h
+  432  ls
+  433  bedtools intersect -a chr3_locus.sorted.bam -b exons.bed -wo | wc -l
+  434  bedtools --version
+  435  bedtools intersect -abam chr3_locus.sorted.bam -b exons.bed -wo | wc -l
+  436  bedtools intersect -abam chr3_locus.sorted.bam -b exons.bed -wo | head
+  437  samtools view -b athal_wu_0_A.bam Chr3:11777000-11794000 > chr3_locus.bam
+  438  samtools sort chr3_locus.bam -o chr3_locus.sorted.bam
+  439  grep -w exon athal_wu_0_A_annot.gtf > exons.gtf
+  440  awk 'BEGIN{OFS="\t"} {print $1, $4-1, $5}' exons.gtf > exons.bed
+  441  bedtools intersect -abam chr3_locus.sorted.bam -b exons.bed -wo | head
+  442  alignments.bam
+  443  grep -w "exon" athal_wu_0_A_annot.gtf > exons.gtf
+  444  head exons.gtf
+  445  bedtools intersect   -a alignments.bam   -b range.bed   > alignments_in_range.bam
+  446  grep -w "exon" athal_wu_0_A_annot.gtf > exons.gtf
+  447  alignments_point2.bam
+  448  ls -l
+  449  bedtools intersect   -a alignments_in_range.bam   -b exons.gtf   -wo
+  450  bedtools intersect   -a alignments_in_range.bam   -b exons.gtf   -wo | wc -l
+  451  bedtools intersect   -a chr3_locus.sorted.bam   -b exons.bed   -wo
+  452  bedtools intersect   -a chr3_locus.sorted.bam   -b exons.bed   -wo | wc -l
+  453  samtools view -c chr3_locus.sorted.bam
+  454  bedtools intersect   -a chr3_locus.sorted.bam   -b exons.bed   -wo | wc -l
+  455  ls chr3_locus.sorted.bam exons.bed
+  456  samtools index chr3_locus.sorted.bam
+  457  ls chr3_locus.sorted.bam.bai
+  458  bedtools intersect -a chr3_locus.sorted.bam -b exons.bed -wo
+  459  bedtools bamtobed -i chr3_locus.sorted.bam > chr3_locus.bed
+  460  head chr3_locus.bed
+  461  bedtools intersect -a chr3_locus.bed -b exons.bed -wo | wc -l
+  462  bedtools intersect -a chr3_locus.bed -b exons.bed -wo | awk '$NF >= 10' | wc -l
+  463  bedtools intersect -a chr3_locus.bed -b exons.bed -u | wc -l
+  464  bedtools intersect -a chr3_locus.bed -b exons.bed -wo | cut -f1-3 | sort | uniq | wc -l
+  465  bedtools intersect -a exons.bed -b chr3_locus.bed -u | wc -l
+  466  awk '$3=="transcript"' athal_wu_0_A_annot.gtf | wc -l
+  467  % samtools view athal_wu_0_A.bam | cut –f7 | grep –c ‘*’
+  468  samtools view athal_wu_0_A.bam | cut –f7 | grep –c '*'
+  469  activate bioinfo
+  470  conda activate bioinfo
+  471  samtools --version
+  472  cd 
+  473  ls -l
+  474  cd fasta
+  475  ls -l
+  476  cd athal_wu_0_A.bam
+  477  samtools view athal_wu_0_A.bam | cut -f7 | grep -c '*'
+  478  ls -l
+  479  samtools view chr3_locus.bam
+  480  | cut -f7 | grep -c '*'
+  481  (bioinfo) pedroaraujo@Pedro:~/fasta$  samtools view athal_wu_0_A.region.bam
+  482  | cut -f7 | grep -c '*'
+  483  ls -l
+  484  samtools view athal_wu_0_A.region.bam | cut -f7 | grep -c '*'
+  485  samtools sort athal_wu_0_A.bam athal_wu_0_A.sorted
+  486  samtools index athal_wu_0_A.sorted.bam
+  487  conda activate bioinfo
+  488  ls -l
+  489  cd fasta
+  490  ls -l
+  491  samtools sort athal_wu_0_A.bam athal_wu_0_A.sorted
+  492  samtools view athal_wu_0_A.bam | cut -f7 | grep -c '*'
+  493  samtools view athal_wu_0_A.bam | cut –f6 | grep –c 'D'
+  494  samtools view athal_wu_0_A.bam | cut -f6 | grep -c 'D'
+  495  samtools view athal_wu_0_A.bam | cut -f7 | grep -c '='
+  496  samtools sort athal_wu_0_A.bam athal_wu_0_A.sorted
+  497  bedtools -- version
+  498  bedtools --version
+  499  samtools --version
+  500  samtools sort -o athal_wu_0_A.sorted.bam athal_wu_0_A.bam
+  501  samtools view -b athal_wu_0_A.sorted.bam Chr3:11777000-11794000 > athal_wu_0_A.region.bam
+  502  samtools index athal_wu_0_A.sorted.bam
+  503  samtools view -b athal_wu_0_A.sorted.bam Chr3:11777000-11794000 > athal_wu_0_A.region.bam
+  504  samtools flagstat athal_wu_0_A.region.bam
+  505  samtools view athal_wu_0_A.region.bam | cut -f7 | grep -c '*'
+  506  samtools view athal_wu_0_A.region.bam | cut -f7 | grep -c '='
+  507  samtools view -H athal_wu_0_A.region.bam | grep -c "SN:"
+  508  bedtools intersect -abam  athal_wu_0_A.region.bam -b  athal_wu_0_A_annot.gtf -bed -wo > overlaps.bed
+  509  wc -l overlaps.bed
+  510  cut -f1 overlaps.bed | sort -u | wc -l
+  511  cut -f9 athal_wu_0_A_annot.gtf | cut -d ' ' -f1,2 | sort -u | wc -l
+  512  cd
+  513  ls -l
+  514  cd fasta
+  515  ls -l
+  516  more gencommand_proj1_data
+  517  cat gencommand_proj1_data
+  518  cat dna2.fasta
+  519  grep ' > '
+  520  cut -f1 gencommand_proj1_data | grep " > "
+  521  cut -f1 dna2.fasta | grep -c " > "
+  522  cat dna2.fasta | grep -c " > "
+  523  conda actiave bioinfo
+  524  conda activate bioinfo
+  525  samtools --version 
+  526  bedtools --version
+  527  bedtools -help
+  528  samtools -help
+  529  quit
+  530  eco hello
+  531  echo hello
+  532  print ("hello"
+  533  print ("hello")
+  534  python --version
+  535  type python
+  536  activate python
+  537  python3
+  538  bowtie2-build
+  539  conda activate bioinfo
+  540  bowtie --version
+  541  conda deactivate
+  542  sudo apt install bowtie bowtie2
+  543  which bowtie
+  544  bowtie --version
+  545  bowtie2 --version
+  546  condo activate bioninfo
+  547  conda activate bioinfo
+  548  bowtie2
+  549  which bowtie2
+  550  bowtie2 --version
+  551  bowtie2-build
+  552  ls -l
+  553  cd fasta
+  554  ls -l
+  555  cd >
+  556  conda activate bioinfo
+  557  ls -l
+  558  ls -l fastaq
+  559  cd fastaq ls-l
+  560  cd fastaq | ls -l
+  561  cd fastq ls -l
+  562  cd fastq | ls -l
+  563  bowtie --version
+  564  conda activate bioinfo
+  565  samtools --version
+  566  bedtools -version
+  567  python3
+  568  bwa
+  569  ls -l
+  570  bwa
+  571  bowtie2
+  572  bwa version
+  573  which bwa
+  574  conda list | grep bwa
+  575  which bowtie
+  576  sudo apt install bwa
+  577  bwa version
+  578  bwa
+  579  bwa --version
+  580  conda activate bioinfo
+  581  bwa 
+  582  bwa index
+  583  bwa
+  584  ls -l
+  585  cd fasta
+  586  ls -l
+  587  bwa index dna2.fasta
+  588  ls -l
+  589  bwa men
+  590  bwa mem
+  591  bwa mem >& bwa.log
+  592  vi bwa.log
+  593  bwa mem -t 4 
+  594  ls -l
+  595  cd gencommand_proj3
+  596  unzip gencommand_proj3_data.tar.gz
+  597  sudo apt install unzip
+  598  unzip gencommand_proj3_data.tar.gz
+  599  gunzip gencommand_proj3_data.tar.gz
+  600  ls
+  601  file gencommand_proj3_data.tar
+  602  tar -xvf gencommand_proj3_data.tar
+  603  ls
+  604  samtools --version
+  605  samtools mpileup >& mpileup.log
+  606  vi mpileup
+  607  vi mpileup.log
+  608  ls
+  609  samtools view wu_0_A_wgs.fastq
+  610  bwa index wu_0.v7.fas
+  611  bwa mem wu_0.v7.fas wu_0_A_wgs.fastq > wu_0_A.sam
+  612  ls
+  613  samtools view wu_0_A.sam | head
+  614  samtools flagstat wu_0_A.sam
+  615  samtools mpileup -f wu_0.v7.fas wu_0_A.sam
+  616  samtools view -S -b wu_0_A.sam > wu_0_A.bam
+  617  samtools sort wu_0_A.bam -o wu_0_A.sorted.bam
+  618  samtools index wu_0_A.sorted.bam
+  619  samtools mpileup -f wu_0.v7.fas wu_0_A.sorted.bam
+  620  samtools mpileup -f wu_0.v7.fas wu_0_A.sorted.bam > sample.mpileup
+  621  more sample.mpileup | more
+  622  amtools mpileup -v -u -f wu_0.v7.fas wu_0_A.sorted.bam > sample.vcf
+  623  samtools mpileup -v -u -f wu_0.v7.fas wu_0_A.sorted.bam > sample.vcf
+  624  more sample.vcf
+  625  samtools mpileup -g -f wu_0.v7.fas wu_0_A.sorted.bam > sample.bcf
+  626  more sample.bcf
+  627  bcftools1
+  628  bcftools --version
+  629  which bcftools
+  630  exit()
+  631  conda desactivate bioinfo
+  632  conda deactivate
+  633  sudo apt install bcftools
+  634  bcftools
+  635  conda activate bioinfo
+  636  bcftools1
+  637  bcftools --version
+  638  bcftools
+  639  which bcftools
+  640  samtools view
+  641  bedtools view
+  642  bedtools --version
+  643  bedtools
+  644  ls sample.bcf
+  645  bcftools view sample.bcf
+  646  ls -l
+  647  bcftools call >& call.log
+  648  vi call.log
+  649  bcftools call -v -n -o z -o sample.vcf.gz sample.bcf
+  650  bcftools call -v -n -O z -o sample.vcf.gz sample.bcf
+  651  bcftools call -v -O z -o sample.vcf.gz sample.bcf
+  652  bcftools call -mv -O z -o sample.vcf.gz sample.bcf
+  653  bcftools view sample.vcf.gz | head
+  654  bcftools call -mv -O z -o sample.vcf.gz sample.bcf
+  655  bcftools view sample.vcf.gz | head
+  656  zcat sample.vcf.gz
+  657  ls 
+  658  ls wu_0_A.bam
+  659  samtools index wu_0_A.bam
+  660  samtools idxstats wu_0_A.sorted.bam
+  661  samtools tview
+  662  samtools tview -p Chr1:2992333200 -d T wu_0_A.bam wu_0.v7.fas
+  663  samtools tview -p Chr1:2992333200 -d T wu_0_A.sorted.bam.bai wu_0.v7.fas
+  664  samtools tview -p Chr1:2992333200 -d T wu_0_A.sorted.bam wu_0.v7.fas
+  665  samtools depth -r 1:1-1000 wu_0_A.sorted.bam
+  666  samtools view wu_0_A.sorted.bam | head
+  667  samtools tview -p Chr1:396 wu_0_A.sorted.bam wu_0.v7.fas
+  668  bowtie
+  669  bowtie -h
+  670  bowtie2
+  671  source /home/pedroaraujo/bioenv/bin/activate
+  672  source /home/pedroaraujo/bioenv/bin/activate
+  673  cd
+  674  ls -l
+  675  cd fasta
+  676  ls -l
+  677  less alignments_in_range.bam
+  678  less exons.gtf
+  679  more exons .gtf
+  680  more exons.gtf
+  681  python3
+  682  python3 --version
+  683  cd
+  684  python3
+  685  echo hello
+  686  ls -l
+  687  cd bio
+  688  ls -l
+  689  less DNA_sequence_coursera2.ipynb
+  690  python3
+  691  ce
+  692  cd
+  693  conda activate bioinfo
+  694  deactivate bioinfo
+  695  deactivate conda
+  696  conda deactivate
+  697  sudo apt snakemake
+  698  sudo apt Snakemake
+  699  sudo apt nextflow
+  700  python3
+  701  echo coda coda coda seu viado coda coda seu viado
+  702  ls -l
+  703  cd bio
+  704  cd
+  705  cd nlines
+  706  less nlines
+  707  cd projects | ls -l
+  708  cd projects ls -l
+  709  cd projects
+  710  ls -l
+  711  less 'Python projects'
+  712  cd 'Python projects'
+  713  ls -l
+  714  less Test2_bio.py
+  715  ls -l
+  716  cd fasta
+  717  ls -l
+  718  ls -l  gencommand_proj3
+  719  -rw-r--r-- 1
+  720  cd  gencommand_proj3
+  721  -rw-r--r-- 1
+  722  ls -l
+  723  bowtie2-build wu_0.v7.fas wu_0
+  724  ls -l
+  725  grep -c "^>" wu_0.v7.fas
+  726  less wu_0.v7.fas
+  727  grep "^>" wu_0.v7.fas
+  728  grep "^>" wu_0.v7.fas | sed -n '3p'
+  729  ls wu_0*.bt2 | wc -l
+  730  grep -c "^@" wu_0_A_wgs.fastq
+  731  wc -l wu_0_A_wgs.fastq
+  732  expr $(wc -l < wu_0_A_wgs.fastq) / 4
+  733  echo $(( $(wc -l < wu_0_A_wgs.fastq) / 4 ))
+  734  samtools view -F 4 wu_0_A.sam | wc -l
+  735  bowtie2 --end-to-end -x genome_index -U reads.fastq -S full_length.sam
+  736  less full_length.sam
+  737  bowtie2 --end-to-end -x wu_0 -U wu_0_A_wgs.fastq -S full_length.sam
+  738  samtools view -bS full_length.sam > full_length.bam
+  739  samtools sort full_length.bam -o full_length.sorted.bam
+  740  samtools index full_length.sorted.bam
+  741  ls -l
+  742  bowtie2 --local -x wu_0 -U wu_0_A_wgs.fastq -S local.sam
+  743  ls local.sam
+  744  samtools view -F 4 local.sam | wc -l
+  745  samtools view -F 4 full_length.sam | wc -l
+  746  samtools view -c -F 4 full_length.sam
+  747  samtools view -c -F 4 local.sam
+  748  samtools view full_length.sam | awk '$6 ~ /I|D/' | wc -l
+  749  samtools view -F 4 ful_length | awk '$6 ~ /I|D/' | wc -l
+  750  samtools view -F 4 full_length.sam | awk '$6 ~ /I|D/' | wc -l
+  751  samtools view -F 4 local.sam | awk '$6 ~ /I|D/' | wc -l
+  752  ls -l
+  753  samtools mpileup -f wu_0.v7.fas -uv full_length.sorted.bam | bcftools call -mv -Ov -o variants.vcf
+  754  grep -v "^#" variants.vcf | grep "^Chr3" | wc -l
+  755  grep -v "^#" variants.vcf | awk '$4 == "A"' | wc -l
+  756  grep -v "^#" variants.vcf | head
+  757  grep -v "^#" variants.vcf | awk 'match($8,/DP=([0-9]+)/,a) && a[1]==20' | wc -l
+  758  grep -v "^#" variants.vcf | awk 'length($4) != length($5)' | wc -l
+  759  grep -v "^#" variants.vcf | awk '$1=="Chr1" && $2==175672' | wc -l
+  760  grep -w "175672" variants.vcf
+  761  samtools mpileup -f wu_0.v7.fas -g full_length.sorted.bam > candidates.bcf
+  762  bcftools call -m -v -Ov candidates.bcf -o variants_multi.vcf
+  763  grep -v "^#" variants_multi.vcf | grep "^Chr3" | wc -l
+  764  grep -v "^#" variants_multi.vcf | awk '$1=="Chr3"' | wc -l
+  765  grep -v "^#" variants_multi.vcf | awk '$4=="A" && $5=="T"' | wc -l
+  766  grep -v "^#" variants_multi.vcf | awk 'length($4) != length($5)' | wc -l
+  767  grep -v "^#" variants_multi.vcf | awk '{split($5,a,","); for(i in a) if(length($4)!=length(a[i])) {print; break}}' | wc -l
+  768  grep -v "^#" variants_multi.vcf | awk 'match($8,/DP=([0-9]+)/,a) && a[1]==20' | wc -l
+  769  grep -v "^#" variants_multi.vcf | awk '$1=="Chr3" && $2==11937923'
+  770  wc –l wu_0_A_wgs.fastq
+  771  wc -l wu_0_A_wgs.fastq
+  772  wc -l wu_0_A_wgs.fastq | awk '{print $1/4}'
+  773  samtools view -F 4 full_length.sam | wc -l
+  774  samtools view -F 260 full_length.sam | wc -l
+  775  bowtie2 --end-to-end ...
+  776  samtools view -c -F 4 arquivo.sam
+  777  samtools view -c -F 4 full_length.sam
+  778  conda activate bioinfo
+  779  ls -l
+  780  cd fasta
+  781  ls -l
+  782  cd gencommand_proj3
+  783  ls -l
+  784  grep -v "^@" full_length.sam | awk 'and($2,4)==0' | wc -l
+  785  samtools view -F 4 full_length.bam | wc -l
+  786  (bioinfo) pedroaraujo@Pedro:~/fasta/gencommand_proj3$ samtools view -F 4 full_length.sorted.bam | wc -l
+  787  samtools view -F 4 full_length.sorted.bam | wc -l
+  788  samtools view -F 2308 full_length.sorted.bam | wc -l
+  789  bowtie2 -x genome_index -U reads.fastq -S fullmatch.sam
+  790  samtools view -bS fullmatch.sam > fullmatch.bam
+  791  samtools sort fullmatch.bam -o fullmatch.sorted.bam
+  792  samtools view -F 2308 fullmatch.sorted.bam | wc -l
+  793  samtools view fullmatch.sorted.bam | head
+  794  head fullmatch.sam
+  795  grep -v "^@" fullmatch.sam | head
+  796  bowtie2 -x genome_index -U reads.fastq -S fullmatch.sam
+  797  ls genome_index*
+  798  ls -l
+  799  samtools view -F 4 full_length.sorted.bam.bai | wc -l
+  800  samtools view -F 4 full_sorted.bam | wc -l
+  801  cut -f6 full_length.sam | grep -c "[I,D]"
+  802  cut -f6 local.sam | grep -c "[I,D]"
+  803  ls -l
+  804  bowtie2-build wu_0.v7.fas wu_0
+  805  ls wu_0*.bt2
+  806  bowtie2 -x wu_0 -U wu_0_A.fastq -S wu_0_full.sam
+  807  ls -l
+  808  bowtie2 -x wu_0 -U wu_0_A.fastq -S wu_0_full.sam
+  809  bowtie2 --local -x wu_0 -U wu_0_A.fastq -S wu_0_local.sam
+  810  bowtie2 --local -x wu_0 -U wu_0_A_wgs.fastq -S wu_0_local.sam
+  811  samtools view -bS wu_0_local.sam > wu_0_local.bam
+  812  samtools sort wu_0_local.bam -o wu_0_local.sorted.bam
+  813  samtools view wu_0_local.sorted.bam | head
+  814  samtools view -F 4 wu_0_local.sorted.bam | wc -l
+  815  samtools view -F 2308 wu_0_local.sorted.bam | wc -l
+  816  bowtie2 --local -x wu_0 -U wu_0_A_wgs.fastq -S wu_0_local.sam
+  817  ls -l
+  818  bowtie2 -x wu_0 -U wu_0_A_wgs.fastq -S wu_0_full.sam
+  819  samtools view -F 4 wu_0_full.sorted.bam | cut -f1 | sort | uniq | wc -l
+  820  samtools view -bS wu_0_full.sam > wu_0_full.bam
+  821  ls -l
+  822  samtools sort wu_0_full.bam -o wu_0_full.sorted.bam
+  823  ls -l
+  824  samtools view -F 4 wu_0_local.sorted.bam | cut -f1 | sort | uniq -c | awk '$1>1' | wc -l
+  825  wu_0_local.sorted.bam
+  826  wu_0_full.sorted.bam
+  827  samtools view -F 4 wu_0_local.sorted.bam | cut -f1 | sort | uniq -c | awk '$1>1' | wc -l
+  828  samtools view -F 4 wu_0_full.sorted.bam | cut -f1 | sort | uniq | wc -l
+  829  samtools view -F 4 wu_0_full.sorted.bam | cut -f1 | sort | uniq -c | awk '$1>1' | wc -l
+  830  samtools view -F 4 wu_0_local.sorted.bam | cut -f1 | sort | uniq -c | awk '$1>1' | wc -l
+  831  bowtie2 -x wu_0 -U wu_0_A_wgs.fastq -S wu_0_full_multiple.sam -k 2
+  832  samtools view -bS wu_0_full_multiple.sam > wu_0_full_multiple.bam
+  833  samtools sort wu_0_full_multiple.bam -o wu_0_full_multiple.sorted.bam
+  834  samtools view -F 4 wu_0_full_multiple.sorted.bam | cut -f1 | sort | uniq -c | awk '$1>1' | wc -l
+  835  samtools view -F 4 wu_0_full_multiple.sorted.bam | cut -f1 | sort | uniq -c | awk '$1==1' | wc -l
+  836  bowtie2 --local -x wu_0 -U wu_0_A_wgs.fastq -S wu_0_local_multiple.sam -k 2
+  837  samtools view -bS wu_0_local_multiple.sam > wu_0_local_multiple.bam
+  838  samtools sort wu_0_local_multiple.bam -o wu_0_local_multiple.sorted.bam
+  839  samtools view -F 4 wu_0_local_multiple.sorted.bam | cut -f1 | sort | uniq -c | awk '$1>1' | wc -l
+  840  cut -f6 wu_0_local.bam | grep -c "[I,D]"
+  841  samtools mpileup -f wu_0_full.bam > wu_0_full.mpileup.vcf
+  842  samtools mpileup -f wu_0.v7.fas wu_0_full.bam > wu_0_full.mpileup.vcf
+  843  samtools mpileup -f wu_0.v7.fas wu_0_full.bam.sorted > wu_0_full.mpileup.vcf
+  844  samtools mpileup -f wu_0.v7.fas -Ou out.full.sorted.bam | bcftools call -mv -Ov -o out.full.mpileup.vcf
+  845  samtools mpileup –f wu_0.v7.fas –uv out.full.sorted.bam > out.full.mpileup.vcf
+  846  samtools mpileup –f wu_0.v7.fas –Ou out.full.sorted.bam | bcftools call -mv -Ov -o out.full.mpileup.vcf
+  847  samtools mpileup -f wu_0.v7.fas -uv -o out.full.mpileup.vcf out.full.sorted.bam
+  848  samtools sort wu_0_full.bam -o out.full.sorted.bam
+  849  samtools faidx wu_0.v7.fas
+  850  samtools mpileup -f wu_0.v7.fas -uv -o out.full.mpileup.vcf out.full.sorted.bam
+  851  ls -lh out.full.mpileup.vcf
+  852  head out.full.mpileup.vcf
+  853  cat out.full.mpileup.vcf | grep -v "^#" | cut -f1 | grep -c "Chr3"
+  854  cat out.full.mpileup.vcf | grep -v "^#" | cut -f4 | grep -P "^A$"
+  855  cat out.full.mpileup.vcf | grep -v "^#" | cut -f4 | grep -P "^A$" | wc -l
+  856  cat out.full.mpileup.vcf | grep -v "^#" | grep -c "DP=20;"
+  857  cat out.full.mpileup.vcf | grep -v "^#" | cut -f1,2 | grep Chr1 | 175672
+  858  cat out.full.mpileup.vcf | grep -v "^#" | cut -f1,2 | grep Chr1 | grep 175672
+  859  cat out.full.mpileup.vcf | grep -v "^#" | cut -f1,2 | grep Chr1 | grep 175672 | wc -l
+  860  ls -lh wu_0.v7.fas && cd /home/pedroaraujo/fastq/gencommand_proj3 && ls -lh wu_0_A_wgs.fastq
+  861  source /home/pedroaraujo/bioenv/bin/activate
+  862  ls -l
+  863  conda activate bioinfo
+  864  python3
+  865  cd fastq
+  866  ls -l
+  867  cd
+  868  ls -l
+  869  cd fasta
+  870  ls -l
+  871  cd gencommand_proj1_data
+  872  ls -l
+  873  cd 
+  874  cd gencommand_proj3
+  875  ls -l
+  876  cd fasta
+  877  ls -l
+  878  cd gencommand_proj3
+  879  ls -l
+  880  source /home/pedroaraujo/bioenv/bin/activate
+  881  conda activate projeto3
+  882  find ~ -name "wu_0.v7.fas" 2>/dev/null
+  883  cd gencommand_proj3
+  884  cd fasta
+  885  ls -l
+  886  cd  gencommand_proj3
+  887  history > meu_pipeline.txt
+  888  cat meu_pipeline.txt
+  889  conda activate bioinfo
+  890  ls -l
+  891  cd fasta
+  892  ls -l
+  893  cd gencommand_proj3
+  894  ls -l
+  895  bowtie2-build wu_0.v7.fas wu_0_index
+  896  bowtie2 -x wu_0_index -U wu_0_A_wgs.fastq -S wu_0_endtoend.sam
+  897  bowtie2 --local -x wu_0_index -U wu_0_A_wgs.fastq -S wu_0_local.sam
+  898  samtools view -bS wu_0_endtoend.sam | samtools sort -o wu_0_sorted.bam
+  899  samtools index wu_0_sorted.bam
+  900  samtools mpileup -f wu_0.v7.fas wu_0_sorted.bam | bcftools call -mv -Ov -o wu_0_variants.vcf
+  901  samtools view -c -F 4 wu_0_endtoend.sam
+  902  samtools view -c -F 4 wu_0_local.sam
+  903  samtools --version
+  904  bowtie --version
+  905  bcftools --version
+  906  conda create -n projeto3 python=3.8 -y
+  907  conda activate projeto3
+  908  conda install -c bioconda samtools=1.2 -y
+  909  conda install -c bioconda bowtie2=2.2.5 -y
+  910  conda install -c bioconda bcftools=1.2 -y
+  911  samtools --version
+  912  bowtie2 --version
+  913  bcftools --version
+  914  samtools --version
+  915  bowtie2 --version
+  916  bcftools --version
+  917  samtools --version
+  918  conda install -c conda-forge ncurses=5.9 -y
+  919  samtools --version
+  920  conda deactivate
+  921  conda env remove -n projeto3 -y
+  922  conda create -n projeto3 -c bioconda -c conda-forge     samtools=1.2     bowtie2=2.2.5     bcftools=1.2     -y
+  923  conda activate projeto3
+  924  samtools --version
+  925  bowtie2 --version
+  926  bcftools --version
+  927  conda activate projeto3
+  928  samtools --version
+  929  conda install -n base -c conda-forge mamba -y
+  930  mamba create -n projeto3 -c bioconda -c conda-forge     samtools=1.2     bowtie2=2.2.5     bcftools=1.2     -y
+  931  samtools --version
+  932  conda activate bioinfo
+  933  samtools --version
+  934  conda activate project3
+  935  conda activate projeto 3
+  936  conda activate porjeto3
+  937  conda activate projeto3
+  938  bcftools --version
+  939  bowtie --version
+  940  bowtie2 --version
+  941  samtools --version
+  942  conda install -n projeto3 -c conda-forge -c bioconda     samtools=1.2 --force-reinstall -y
+  943  samtools --version
+  944  which samtools
+  945  samtools --version
+  946  conda install -n projeto3 -c conda-forge ncurses=5 -y
+  947  find ~/miniconda3/envs/projeto3/lib -name "libncurses*"
+  948  ln -s ~/miniconda3/envs/projeto3/lib/libncurses.so.6       ~/miniconda3/envs/projeto3/lib/libncurses.so.5
+  949  samtools --version
+  950  bowtie2 --version
+  951  bcftools --version
+  952  ls
+  953  bowtie2-build wu_0.v7.fas wu_0_index
+  954  bowtie2 -x wu_0_index -U wu_0_A_wgs.fastq -S wu_0_endtoend.sam
+  955  bowtie2 --local -x wu_0_index -U wu_0_A_wgs.fastq -S wu_0_local.sam
+  956  samtools view -c -F 4 wu_0_endtoend.sam
+  957  samtools view -F 4 wu_0_endtoend.sam | cut -f1 | sort -u | wc -l
+  958  samtools view -F 4 wu_0_local.sam | cut -f1 | sort -u | wc -l
+  959  samtools view -F 4 wu_0_local.sam | awk '$6 ~ /I|D/' | wc -l
+  960  samtools mpileup -uv -f wu_0.v7.fas wu_0_sorted.bam -o wu_0_variants.vcf
+  961  samtools view -bS wu_0_endtoend.sam | samtools sort -o wu_0_sorted.bam
+  962  samtools index wu_0_sorted.bam
+  963  grep -v "^#" wu_0_variants.vcf | awk '$4 == "A"' | wc -l
+  964  samtools view -bS wu_0_endtoend.sam | samtools sort -o wu_0_sorted.bam
+  965  samtools index wu_0_sorted.bam
+  966  ls -l
+  967  cat wu_0_full.mpileup.vcf | grep -v "^#" | cut -f4 | grep -P "^A$"
+  968  cat wu_0_full.mpileup.vcf | grep -v "^#" | cut -f4 | grep -P "^A$" | wc -l
+  969  ls *.vcf
+  970  cat out.full.mpileup.vcf | grep -v "^#" | cut -f4 | grep -P "^A$" | wc -l
+  971  grep -v "^#" out.full.mpileup.vcf | cut -f4 | cat -A | head -20
+  972  grep -v "^#" out.full.mpileup.vcf | cut -f4 | sort | uniq -c | sort -rn
+  973  history | tail -30
+  974  ls -l
+  975  samtools mpileup -uv -f wu_0.v7.fas wu_0_sorted.bam -o wu_0_variants.vcf
+  976  grep -v "^#" wu_0_variants.vcf | cut -f4 | grep -P "^A$" | wc -l
+  977  grep -v "^#" wu_0_variants.vcf | wc -l
+  978  grep "^#" wu_0_variants.vcf | tail -5
+  979  samtools view -bS wu_0_local.sam | samtools sort -o wu_0_local_sorted.bam
+  980  samtools index wu_0_local_sorted.bam
+  981  samtools mpileup -uv -f wu_0.v7.fas wu_0_local_sorted.bam -o wu_0_local_variants.vcf
+  982  grep -v "^#" wu_0_local_variants.vcf | cut -f4 | grep -P "^A$" | wc -l
+  983  samtools view -bS wu_0_local.sam | samtools sort -o wu_0_local_sorted.bam
+  984  ls -l
+  985  samtools mpileup -uv -f wu_0.v7.fas wu_0_local_sorted.bam -o wu_0_local_variants.vcf
+  986  wu_0_local.sorted.bam
+  987  less wu_0_local.sorted.bam
+  988  samtools mpileup -uv -f wu_0.v7.fas wu_0_local.sorted.bam -o wu_0_local_variants.vcf
+  989  grep -v "^#" wu_0_local_variants.vcf | cut -f4 | grep -P "^A$" | wc -l
+  990  history > meu_pipeline.txt
+  991  conda activate projeto3
+  992  cat meu_pipeline.txt
+  993  ls -l
+  994  cd fasta
+  995  ls -l 
+  996  cd gencommand_proj3
+  997  nano meu_pipeline.txt
+  998  conda activate projeto3
+  999  cd
+ 1000  ls -l
+ 1001  cd fasta
+ 1002  ls -l
+ 1003  cd gencommand_proj3
+ 1004  ls -l
+ 1005  cat meu_pipeline.txt
+ 1006  conda activate bioinfo
+ 1007  cd
+ 1008  ls -l
+ 1009  cd fasta
+ 1010  ls-l
+ 1011  ls -l
+ 1012  cd gencommand_proj1
+ 1013  cd gencommand_proj1_data
+ 1014  ls -l
+ 1015  cat meu_pipeline.txt
+ 1016  cd
+ 1017  history > meu_pipeline.txt
